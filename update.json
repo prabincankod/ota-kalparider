@@ -1,7 +1,7 @@
 {
-  "version": 2,
-  "sha256": "86c03b8b53f3aa70c5ec5cfbe7736dcd35cba8be0a3c363e7673e4254f34657c",
-  "url": "https://cdn.jsdelivr.net/gh/prabincankod/ota-kalparider@da5f299/output.zip",
-  "downloadAndroidUrl": "https://cdn.jsdelivr.net/gh/prabincankod/ota-kalparider@da5f299/output.zip",
-  "createdAt": "2026-08-23T18:56:22Z"
+  "version": 3,
+  "sha256": "3fcd2d6658377a99bb80a71db034092cf2627d52dd4caaadf5a8910888e27ef4",
+  "url": "https://cdn.jsdelivr.net/gh/prabincankod/ota-kalparider@main/output.zip",
+  "downloadAndroidUrl": "https://cdn.jsdelivr.net/gh/prabincankod/ota-kalparider@main/output.zip",
+  "createdAt": "2026-08-23T19:11:50Z"
 }
