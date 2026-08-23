@@ -1,8 +1,8 @@
 {
   "version": 10,
   "sha256": "9bfe360c760926b719c65891880ad3834ca92bbc7acdf1b214b2ca6225f8ff70",
-  "url": "https://raw.githubusercontent.com/prabincankod/ota-kalparider/main/output.zip",
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/prabincankod/ota-kalparider/main/output.zip",
-  "downloadIosUrl": "https://raw.githubusercontent.com/prabincankod/ota-kalparider/main/output.zip",
+  "url": "https://raw.githubusercontent.com/prabincankod/ota-kalparider/dda295c/output.zip",
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/prabincankod/ota-kalparider/dda295c/output.zip",
+  "downloadIosUrl": "https://raw.githubusercontent.com/prabincankod/ota-kalparider/dda295c/output.zip",
   "createdAt": "2026-08-23T19:38:37Z"
 }
